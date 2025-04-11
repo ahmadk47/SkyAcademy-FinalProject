@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/E9i4ph5CRAbYW4YYq9J9uAh9DHjUSC9d7BsFovkfc8=",
+  "Source": "BiddingManagementSystem.API",
+  "BasePath": "_content/BiddingManagementSystem.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
