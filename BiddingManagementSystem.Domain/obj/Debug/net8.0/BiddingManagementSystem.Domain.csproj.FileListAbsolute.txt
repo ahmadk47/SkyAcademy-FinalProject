@@ -1,0 +1,13 @@
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\bin\Debug\net8.0\BiddingManagementSystem.Domain.deps.json
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\bin\Debug\net8.0\BiddingManagementSystem.Domain.dll
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\bin\Debug\net8.0\BiddingManagementSystem.Domain.pdb
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\obj\Debug\net8.0\BiddingManagementSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\obj\Debug\net8.0\BiddingManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\obj\Debug\net8.0\BiddingManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\obj\Debug\net8.0\BiddingManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\obj\Debug\net8.0\BiddingManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\obj\Debug\net8.0\BiddingManagementSystem.Domain.sourcelink.json
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\obj\Debug\net8.0\BiddingManagementSystem.Domain.dll
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\obj\Debug\net8.0\refint\BiddingManagementSystem.Domain.dll
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\obj\Debug\net8.0\BiddingManagementSystem.Domain.pdb
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.Domain\obj\Debug\net8.0\ref\BiddingManagementSystem.Domain.dll

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C2B7005-C93F-478D-A291-DBB835FB0780}|Solution Items{8C2B7005-C93F-478D-A291-DBB835FB0780}|C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8C2B7005-C93F-478D-A291-DBB835FB0780}|Solution Items{8C2B7005-C93F-478D-A291-DBB835FB0780}|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEE5A802-2A1F-4988-97F4-9FDD84E7A342}|BiddingManagementSystem.API\\BiddingManagementSystem.API.csproj|c:\\users\\ahmad\\desktop\\sky academy\\final project - sky academy\\biddingmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEE5A802-2A1F-4988-97F4-9FDD84E7A342}|BiddingManagementSystem.API\\BiddingManagementSystem.API.csproj|solutionrelative:biddingmanagementsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -158,11 +162,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 171,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T19:49:08.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Tender.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Domain\\Entities\\Tender.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Domain\\Entities\\Tender.cs",
@@ -170,12 +187,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Domain\\Entities\\Tender.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T17:57:46.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T17:57:46.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "EvaluationCriteria.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Domain\\Entities\\EvaluationCriteria.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Domain\\Entities\\EvaluationCriteria.cs",
@@ -183,12 +199,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Domain\\Entities\\EvaluationCriteria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:59:57.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:59:57.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TenderCategory.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Domain\\Entities\\TenderCategory.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Domain\\Entities\\TenderCategory.cs",
@@ -196,12 +211,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Domain\\Entities\\TenderCategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:26:30.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:26:30.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Bid.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Domain\\Entities\\Bid.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Domain\\Entities\\Bid.cs",
@@ -209,12 +223,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Domain\\Entities\\Bid.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:59:42.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:59:42.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BidDto.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\DTOs\\BidsDTOs\\BidDto.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\DTOs\\BidsDTOs\\BidDto.cs",
@@ -222,12 +235,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\DTOs\\BidsDTOs\\BidDto.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:22:56.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:22:56.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AuthResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\DTOs\\UserDTOs\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\DTOs\\UserDTOs\\AuthResponseDto.cs",
@@ -235,12 +247,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\DTOs\\UserDTOs\\AuthResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:20:31.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:20:31.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "CreateTenderDto.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\DTOs\\TenderDtos\\CreateTenderDto.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\CreateTenderDto.cs",
@@ -248,12 +259,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\CreateTenderDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:05:33.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:05:33.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "CreateEvaluationCriteriaDto.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\DTOs\\TenderDtos\\CreateEvaluationCriteriaDto.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\CreateEvaluationCriteriaDto.cs",
@@ -261,12 +271,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\CreateEvaluationCriteriaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:03:03.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:03:03.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "BiddingManagementSystem.API\\Properties\\launchSettings.json",
@@ -274,12 +283,11 @@
               "RelativeToolTip": "BiddingManagementSystem.API\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-11T18:23:29.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:23:29.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.API\\Program.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.API\\Program.cs",
@@ -292,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TenderDto.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\DTOs\\TenderDtos\\TenderDto.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\TenderDto.cs",
@@ -300,12 +308,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\TenderDto.cs",
               "ViewState": "AgIAABgAAACQ74ta/g03wAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:03:44.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:03:44.738Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SeedRoles.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.API\\Data\\SeedRoles.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.API\\Data\\SeedRoles.cs",
@@ -313,12 +320,11 @@
               "RelativeToolTip": "BiddingManagementSystem.API\\Data\\SeedRoles.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAASwAsAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:15:25.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:15:25.631Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CreateTenderCommand.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\Features\\Tenders\\Commands\\CreateTenderCommand.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\Features\\Tenders\\Commands\\CreateTenderCommand.cs",
@@ -326,12 +332,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\Features\\Tenders\\Commands\\CreateTenderCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:01:10.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:01:10.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "BidsController.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.API\\Controllers\\BidsController.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.API\\Controllers\\BidsController.cs",
@@ -339,12 +344,11 @@
               "RelativeToolTip": "BiddingManagementSystem.API\\Controllers\\BidsController.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAA9wF8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:16:42.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:16:42.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.API\\Controllers\\AuthController.cs",
@@ -352,12 +356,11 @@
               "RelativeToolTip": "BiddingManagementSystem.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAAAqwCkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:16:39.639Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:16:39.639Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CreateTenderCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\Features\\Tenders\\Commands\\CreateTenderCommandHandler.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\Features\\Tenders\\Commands\\CreateTenderCommandHandler.cs",
@@ -365,12 +368,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\Features\\Tenders\\Commands\\CreateTenderCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:00:45.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:00:45.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "UpdateTenderDto.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\DTOs\\TenderDtos\\UpdateTenderDto.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\UpdateTenderDto.cs",
@@ -378,12 +380,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\UpdateTenderDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:05:58.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:05:58.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "20250411191439_Edits.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Infrastructure\\Migrations\\20250411191439_Edits.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Infrastructure\\Migrations\\20250411191439_Edits.cs",
@@ -391,12 +392,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Infrastructure\\Migrations\\20250411191439_Edits.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:14:40.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:14:40.744Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IFileStorageService.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\Interfaces\\IFileStorageService.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\Interfaces\\IFileStorageService.cs",
@@ -404,12 +404,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\Interfaces\\IFileStorageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:14:48.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:14:48.067Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "EvaluationCriteriaDto.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\DTOs\\TenderDtos\\EvaluationCriteriaDto.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\EvaluationCriteriaDto.cs",
@@ -417,12 +416,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\EvaluationCriteriaDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:14:59.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:14:59.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "TenderCategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\DTOs\\TenderDtos\\TenderCategoryDto.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\TenderCategoryDto.cs",
@@ -430,12 +428,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\DTOs\\TenderDtos\\TenderCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:15:02.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:15:02.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "20250411190145_EditsOnTenderEntity.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Infrastructure\\Migrations\\20250411190145_EditsOnTenderEntity.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Infrastructure\\Migrations\\20250411190145_EditsOnTenderEntity.cs",
@@ -443,12 +440,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Infrastructure\\Migrations\\20250411190145_EditsOnTenderEntity.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:05:03.126Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:05:03.126Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "RegisterUserDto.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\DTOs\\UserDTOs\\RegisterUserDto.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\DTOs\\UserDTOs\\RegisterUserDto.cs",
@@ -456,12 +452,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\DTOs\\UserDTOs\\RegisterUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:37:49.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:37:49.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "TenderType.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Domain\\Enums\\TenderType.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Domain\\Enums\\TenderType.cs",
@@ -469,12 +464,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Domain\\Enums\\TenderType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T19:13:58.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T19:13:58.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Document.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Domain\\Entities\\Document.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Domain\\Entities\\Document.cs",
@@ -482,12 +476,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Domain\\Entities\\Document.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:59:51.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:59:51.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Domain\\Entities\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Domain\\Entities\\ApplicationUser.cs",
@@ -495,12 +488,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Domain\\Entities\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:37:32.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:37:32.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ApplicationDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Infrastructure\\Persistence\\ApplicationDbContextFactory.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Infrastructure\\Persistence\\ApplicationDbContextFactory.cs",
@@ -508,12 +500,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Infrastructure\\Persistence\\ApplicationDbContextFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T17:46:16.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T17:46:16.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "BidItem.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Domain\\Entities\\BidItem.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Domain\\Entities\\BidItem.cs",
@@ -521,12 +512,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Domain\\Entities\\BidItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:59:49.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:59:49.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "20250411184259_MakeAddressNullable2.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Infrastructure\\Migrations\\20250411184259_MakeAddressNullable2.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Infrastructure\\Migrations\\20250411184259_MakeAddressNullable2.cs",
@@ -534,12 +524,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Infrastructure\\Migrations\\20250411184259_MakeAddressNullable2.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:43:03.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:43:03.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\Interfaces\\IAuthService.cs",
@@ -547,12 +536,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\Interfaces\\IAuthService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:44:23.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:44:23.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Infrastructure\\DependencyInjection.cs",
@@ -560,12 +548,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Infrastructure\\DependencyInjection.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAD4v0gAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T17:48:07.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T17:48:07.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Infrastructure\\Persistence\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Infrastructure\\Persistence\\ApplicationDbContext.cs",
@@ -573,12 +560,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Infrastructure\\Persistence\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAlwBgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T17:40:50.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T17:40:50.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "20250411183949_MakeAddressNullable.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Infrastructure\\Migrations\\20250411183949_MakeAddressNullable.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Infrastructure\\Migrations\\20250411183949_MakeAddressNullable.cs",
@@ -586,12 +572,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Infrastructure\\Migrations\\20250411183949_MakeAddressNullable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T18:41:13.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T18:41:13.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.API\\appsettings.json",
               "RelativeDocumentMoniker": "BiddingManagementSystem.API\\appsettings.json",
@@ -599,12 +584,11 @@
               "RelativeToolTip": "BiddingManagementSystem.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-11T17:38:06.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T17:38:06.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "20250411175947_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Infrastructure\\Migrations\\20250411175947_InitialCreate.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Infrastructure\\Migrations\\20250411175947_InitialCreate.cs",
@@ -612,12 +596,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Infrastructure\\Migrations\\20250411175947_InitialCreate.cs",
               "ViewState": "AgIAAJMBAAAAAAAAAAAmwKoBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T17:59:52.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T17:59:52.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Application\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Application\\Interfaces\\IUserService.cs",
@@ -625,12 +608,11 @@
               "RelativeToolTip": "BiddingManagementSystem.Application\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T17:30:15.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T17:30:15.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Sky Academy\\Final Project - Sky Academy\\BiddingManagementSystem.Infrastructure\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BiddingManagementSystem.Infrastructure\\Services\\UserService.cs",
@@ -638,8 +620,7 @@
               "RelativeToolTip": "BiddingManagementSystem.Infrastructure\\Services\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAQwB8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T17:28:20.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-11T17:28:20.432Z"
             }
           ]
         }
