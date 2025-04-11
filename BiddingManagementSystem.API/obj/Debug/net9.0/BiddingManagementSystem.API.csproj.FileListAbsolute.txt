@@ -193,3 +193,6 @@ C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagement
 C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.API\obj\Debug\net9.0\BiddingManagementSystem.API.genruntimeconfig.cache
 C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.API\obj\Debug\net9.0\ref\BiddingManagementSystem.API.dll
 C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.API\obj\Debug\net9.0\BiddingManagementSystem.API.sourcelink.json
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.API\bin\Debug\net9.0\BiddingManagementSystem.API.xml
+C:\Users\Ahmad\Desktop\Sky Academy\Final Project - Sky Academy\BiddingManagementSystem.API\obj\Debug\net9.0\BiddingManagementSystem.API.xml

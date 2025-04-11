@@ -29,5 +29,8 @@
     <ProjectReference Include="..\BiddingManagementSystem.Application\BiddingManagementSystem.Application.csproj" />
     <ProjectReference Include="..\BiddingManagementSystem.Infrastructure\BiddingManagementSystem.Infrastructure.csproj" />
   </ItemGroup>
-
+  <PropertyGroup>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+  </PropertyGroup>
 </Project>

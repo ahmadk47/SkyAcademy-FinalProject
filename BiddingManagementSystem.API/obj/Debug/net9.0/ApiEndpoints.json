@@ -210,6 +210,16 @@
         "IsRequired": false
       },
       {
+        "Name": "TenderDto.EligibilityCriteria",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TenderDto.PaymentTerms",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
         "Name": "TenderDto.CategoryId",
         "Type": "System.Guid",
         "IsRequired": false
@@ -217,6 +227,16 @@
       {
         "Name": "TenderDto.EvaluationCriteria",
         "Type": "System.Collections.Generic.List\u00601[[BiddingManagementSystem.Application.DTOs.TenderDtos.CreateEvaluationCriteriaDto, BiddingManagementSystem.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Documents",
+        "Type": "System.Collections.Generic.List\u00601[[Microsoft.AspNetCore.Http.IFormFile, Microsoft.AspNetCore.Http.Features, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "DocumentsFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
         "IsRequired": false
       }
     ],

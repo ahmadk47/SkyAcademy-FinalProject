@@ -13,7 +13,8 @@ using BiddingManagementSystem.Domain.Entities;
 using BiddingManagementSystem.Application.Interfaces;
 using BiddingManagementSystem.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Authentication.Cookies;  // Make sure this namespace is correct for IAuthService and AuthService
+using Microsoft.AspNetCore.Authentication.Cookies;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -40,7 +41,7 @@ builder.Services.AddSwaggerGen(c =>
 {
     c.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "Tender Management System API",
+        Title = "Bidding Management System API",
         Version = "v1",
         Description = "API for managing tenders, bids, and evaluations"
     });
@@ -88,13 +89,15 @@ var app = builder.Build();
 
 await SeedRoles.Initialize(app);
 
-
-app.UseSwagger();
-app.UseSwaggerUI(c =>
+if (app.Environment.IsDevelopment())
 {
-    c.SwaggerEndpoint("/", "Bidding Management System API");
-    c.RoutePrefix = string.Empty;
-});
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Bidding Management System API v1");
+        c.RoutePrefix = string.Empty; // Optional: makes Swagger the root page
+    });
+}
 
 
 app.UseHttpsRedirection();

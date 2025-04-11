@@ -1,7 +1,7 @@
 {
   "openapi": "3.0.4",
   "info": {
-    "title": "Tender Management System API",
+    "title": "Bidding Management System API",
     "description": "API for managing tenders, bids, and evaluations",
     "version": "v1"
   },
@@ -342,6 +342,12 @@
                   "TenderDto.ContactEmail": {
                     "type": "string"
                   },
+                  "TenderDto.EligibilityCriteria": {
+                    "type": "string"
+                  },
+                  "TenderDto.PaymentTerms": {
+                    "type": "string"
+                  },
                   "TenderDto.CategoryId": {
                     "type": "string",
                     "format": "uuid"
@@ -351,6 +357,17 @@
                     "items": {
                       "$ref": "#/components/schemas/CreateEvaluationCriteriaDto"
                     }
+                  },
+                  "Documents": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "format": "binary"
+                    }
+                  },
+                  "DocumentsFile": {
+                    "type": "string",
+                    "format": "binary"
                   }
                 }
               },
@@ -376,10 +393,22 @@
                 "TenderDto.ContactEmail": {
                   "style": "form"
                 },
+                "TenderDto.EligibilityCriteria": {
+                  "style": "form"
+                },
+                "TenderDto.PaymentTerms": {
+                  "style": "form"
+                },
                 "TenderDto.CategoryId": {
                   "style": "form"
                 },
                 "TenderDto.EvaluationCriteria": {
+                  "style": "form"
+                },
+                "Documents": {
+                  "style": "form"
+                },
+                "DocumentsFile": {
                   "style": "form"
                 }
               }
